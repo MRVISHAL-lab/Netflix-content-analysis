@@ -1,5 +1,5 @@
 # Netflix Content Analysis
-
+![Netflix-content-Analsis](Images/Interface.png)
 ## Project Overview
 
 This project analyzes Netflix content using Python and Pandas to uncover trends in genres, production countries, IMDb ratings, runtime, and content types.
