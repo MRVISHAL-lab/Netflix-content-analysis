@@ -1,4 +1,4 @@
-# Netflix Content Analysis
+# Netflix Content Analytics
 ![Netflix-content-Analsis](Images/Interface.png)
 ## Project Overview
 
